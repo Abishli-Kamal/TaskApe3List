@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Task8Ape3\Task8Ape3\bin\Debug\netcoreapp3.1\Task8Ape3.exe
+C:\Users\user\Desktop\Task8Ape3\Task8Ape3\bin\Debug\netcoreapp3.1\Task8Ape3.deps.json
+C:\Users\user\Desktop\Task8Ape3\Task8Ape3\bin\Debug\netcoreapp3.1\Task8Ape3.runtimeconfig.json
+C:\Users\user\Desktop\Task8Ape3\Task8Ape3\bin\Debug\netcoreapp3.1\Task8Ape3.runtimeconfig.dev.json
+C:\Users\user\Desktop\Task8Ape3\Task8Ape3\bin\Debug\netcoreapp3.1\Task8Ape3.dll
+C:\Users\user\Desktop\Task8Ape3\Task8Ape3\bin\Debug\netcoreapp3.1\Task8Ape3.pdb
+C:\Users\user\Desktop\Task8Ape3\Task8Ape3\obj\Debug\netcoreapp3.1\Task8Ape3.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Task8Ape3\Task8Ape3\obj\Debug\netcoreapp3.1\Task8Ape3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Task8Ape3\Task8Ape3\obj\Debug\netcoreapp3.1\Task8Ape3.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Task8Ape3\Task8Ape3\obj\Debug\netcoreapp3.1\Task8Ape3.AssemblyInfo.cs
+C:\Users\user\Desktop\Task8Ape3\Task8Ape3\obj\Debug\netcoreapp3.1\Task8Ape3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Task8Ape3\Task8Ape3\obj\Debug\netcoreapp3.1\Task8Ape3.dll
+C:\Users\user\Desktop\Task8Ape3\Task8Ape3\obj\Debug\netcoreapp3.1\Task8Ape3.pdb
+C:\Users\user\Desktop\Task8Ape3\Task8Ape3\obj\Debug\netcoreapp3.1\Task8Ape3.genruntimeconfig.cache
